@@ -1,0 +1,62 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
+
+img {
+    margin: 10px;
+    max-width: 350px;
+}
+
+figcaption {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 3.8rem;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 2.6rem;
+    font-weight: 400;
+}
+
+button {
+    width: 250px;
+    height: 55px;
+    border: none;
+    text-decoration: none;
+    background-color: #333333;
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+@media (min-width: 900px) {
+    main {
+        flex-direction: row;
+        padding: 150px;
+    }
+}
