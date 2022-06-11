@@ -52,5 +52,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Orangel-18](//https://github.com/Orangel-18)
+- GitHub [@Orangel-18](https://github.com/Orangel-18)
 
