@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="[https://https://404challengeorangel.netlify.app/](https://404challengeorangel.netlify.app/)">
+    <a href="[https://https://404challengeorangel.netlify.app/]">
       Demo
     </a>
     <span> | </span>
